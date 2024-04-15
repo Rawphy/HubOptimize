@@ -1,0 +1,52 @@
+.background{
+    background-image: url(/laslesVPN-v1.0.0/public/assets/img/illustrations/BgImg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+}
+
+
+/*Custom CSS*/
+.row1 .card {
+    display: flex; /* Use flexbox to align items */
+    flex-direction: column; /* Stack the images vertically */
+    
+}
+
+
+
+
+  /* External CSS file: styles.css */
+
+/* Background colors */
+.bg-black {
+    background-color: black;
+  }
+  
+  .bg-light-gray {
+    background-color: #D9E1EA;
+  }
+  
+  /* Image container */
+  .image-container {
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  /* Images */
+  .imageDiv {
+    width: 140px; /* Set the width of both images */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .imageDiv1,
+  .imageDiv2 {
+    width: 130px; /* Set the width of both images */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .imageDiv2 {
+    margin-top: 10px; /* Adjust margin to create space between the images */
+    margin-left: 50px; /* Move the second image slightly to the right */
+  }
+  
+  
